@@ -1,4 +1,5 @@
 # FileManager
+*A simple program that allows for the manipulation of files using Java.*
 
 ## Available Commands
 
